@@ -1,0 +1,17 @@
+.title {
+  margin: 20px;
+}
+.moviesBar {
+  background-color: rgb(46, 43, 43);
+  overflow-x: auto;
+  height: 550px;
+  scrollbar-width: none;
+  margin-bottom: 30px;
+}
+.moviesContainer {
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+  padding-top: 10px;
+  gap: 20px;
+}
