@@ -1,0 +1,33 @@
+.movieContainer {
+  margin: 20px;
+  margin-top: 90px;
+  background-color: rgb(46, 43, 43);
+  box-shadow: 0px 4px 10px rgb(0, 0, 0, 0.5);
+  height: 280px;
+  gap: 30px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  cursor: pointer;
+}
+.moviePoster {
+}
+.movieImage {
+  width: 180px;
+  height: 280px;
+}
+.movieInfo {
+}
+.info {
+  font-family: sans-serif;
+}
+.overview {
+  font-size: 13px;
+  color: gray;
+  font-family: sans-serif;
+}
+.noMovies {
+  font-size: 50px;
+  margin-top: 300px;
+  margin-left: 600px;
+}
